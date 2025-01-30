@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crexa\\School\\Semester6\\COMP392\\COMP392_001_CR\\Labs\\Lab3_COMP392_001_CR\\Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D332983-8232-46C2-86EB-A2E3A0EE1FB7}|Week3\\Week3.vcxproj|C:\\Users\\crexa\\School\\Semester6\\COMP392\\COMP392_001_CR\\Labs\\Lab3_COMP392_001_CR\\Week3\\Week3\\Week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D332983-8232-46C2-86EB-A2E3A0EE1FB7}|Week3\\Week3.vcxproj|solutionrelative:Week3\\Week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week3.cpp",
+              "DocumentMoniker": "C:\\Users\\crexa\\School\\Semester6\\COMP392\\COMP392_001_CR\\Labs\\Lab3_COMP392_001_CR\\Week3\\Week3\\Week3.cpp",
+              "RelativeDocumentMoniker": "Week3\\Week3.cpp",
+              "ToolTip": "C:\\Users\\crexa\\School\\Semester6\\COMP392\\COMP392_001_CR\\Labs\\Lab3_COMP392_001_CR\\Week3\\Week3\\Week3.cpp",
+              "RelativeToolTip": "Week3\\Week3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T20:06:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
