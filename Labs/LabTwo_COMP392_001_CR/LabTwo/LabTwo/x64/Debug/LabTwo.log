@@ -1,0 +1,9 @@
+﻿  Dragon.cpp
+  Enemy.cpp
+  Goblin.cpp
+  LabTwo.cpp
+C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\LabTwo_COMP392_001_CR\LabTwo\LabTwo\LabTwo.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UndeadKnight.cpp
+  battle.cpp
+  Generating Code...
+  LabTwo.vcxproj -> C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\LabTwo_COMP392_001_CR\LabTwo\x64\Debug\LabTwo.exe
