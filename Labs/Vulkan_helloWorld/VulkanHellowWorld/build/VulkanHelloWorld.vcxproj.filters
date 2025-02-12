@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\Vulkan_helloWorld\VulkanHellowWorld\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\Vulkan_helloWorld\VulkanHellowWorld\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7821B3F-0960-39F7-9B08-E960FD21B0E3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

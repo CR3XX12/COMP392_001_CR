@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\VulkanCube\Vulkan_3D_Cube\build\CMakeFiles\242469894dcc4b915ae95136c3d06acf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66509C11-18B9-31A5-8961-CC6309D8667A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

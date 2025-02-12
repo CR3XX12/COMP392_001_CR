@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\Labs\Vulkan_helloWorld\VulkanHellowWorld\build\CMakeFiles\0ffd6997c0feb94d5adeadfd7b02dcfc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50591CAB-058D-3E53-9222-C64A51383B99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
